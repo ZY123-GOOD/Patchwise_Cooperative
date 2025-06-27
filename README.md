@@ -40,7 +40,7 @@ For other models not listed here, you may need to adjust the configurations acco
 
 ## Getting Started
 
-For detailed instructions on how to use the interpretability method, evaluate faithfulness using ROAD, and work with the Human Response Interpretability Dataset, please refer to the Instructions.ipynb file.
+For detailed instructions on how to use the interpretability method, evaluate faithfulness using ROAD, and work with the Human Response Interpretability Dataset, please refer to the drawattn_demo.ipynb file.
 
 ---
 
